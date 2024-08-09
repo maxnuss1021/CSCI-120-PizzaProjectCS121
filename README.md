@@ -1,8 +1,1 @@
-This project is a password grader which can be used to assess the strength of a password. It uses multiple different aspects of the password to produce the grade. 
-It assesses each password based on length, special characters, numbers, and capital letters to determine a grade. 
-It also compares the passwords to a list of the top 100k most popular passwords which I have linked below. 
-In addition, the program uses tkinter for UI/UX purposes.
-
-
-Password List:
-https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt
+This is a collection of projects completed in Python
