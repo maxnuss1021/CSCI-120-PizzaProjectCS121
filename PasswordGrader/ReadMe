@@ -1,0 +1,2 @@
+A user will input their passcode and the program will "grade" it.
+It will also scan through a file of many common passwords to insure the password is not included in that data leak. 
